@@ -24,6 +24,11 @@ navbar div ul li{
     
 }
 
+.navbar{
+--bs-navbar-padding-x: 0;
+--bs-navbar-padding-y: 0;
+}
+
 .nav-link{
     color: #fff;
     font-size: 1.5em;
